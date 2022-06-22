@@ -1,7 +1,7 @@
 {
-  "name": "vue-awesome-swiper",
+  "name": "@brunobesson/vue-awesome-swiper",
   "description": "Swiper component for Vue",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "keywords": [
     "vue swiper",
     "vue awesome swiper",
@@ -13,13 +13,13 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/surmon-china/vue-awesome-swiper"
+    "url": "https://github.com/brunobesson/vue-awesome-swiper"
   },
-  "bugs": "https://github.com/surmon-china/vue-awesome-swiper/issues",
-  "homepage": "https://github.surmon.me/vue-awesome-swiper",
+  "bugs": "https://github.com/brunobesson/vue-awesome-swiper/issues",
+  "homepage": "https://github.com/brunobesson/vue-awesome-swiper",
   "author": {
-    "name": "Surmon",
-    "url": "https://github.com/surmon-china"
+    "name": "Bruno Besson",
+    "url": "https://github.com/brunobesson"
   },
   "main": "dist/vue-awesome-swiper.js",
   "module": "dist/vue-awesome-swiper.esm.js",
@@ -46,14 +46,14 @@
     "release": ". ./scripts/release.sh"
   },
   "peerDependencies": {
-    "swiper": "^5.2.0",
+    "swiper": "^5.2.0 || ^6.0.0",
     "vue": "2.x"
   },
   "devDependencies": {
-    "@surmon-china/abc-factory": "^0.3.3",
+    "@brunobesson/abc-factory": "^0.3.3",
     "@types/swiper": "^5.2.1",
     "cross-env": "^6.0.3",
-    "swiper": "^5.2.0",
+    "swiper": "^5.2.0 || ^6.0.0",
     "typescript": "^3.7.5",
     "vue": "^2.6.10"
   },

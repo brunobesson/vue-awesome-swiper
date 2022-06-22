@@ -1,7 +1,7 @@
 {
   "name": "@brunobesson/vue-awesome-swiper",
   "description": "Swiper component for Vue",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "keywords": [
     "vue swiper",
     "vue awesome swiper",
@@ -50,7 +50,7 @@
     "vue": "2.x"
   },
   "devDependencies": {
-    "@brunobesson/abc-factory": "^0.3.3",
+    "@surmon-china/abc-factory": "^0.3.3",
     "@types/swiper": "^5.2.1",
     "cross-env": "^6.0.3",
     "swiper": "^5.2.0 || ^6.0.0",
